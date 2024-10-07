@@ -1,1 +1,3 @@
-# BasketballTimeoutAnalysis
+# Basketball Timeout Analysis
+
+Timeouts in basketball are a strategic tool that significantly influence the flow and outcome of a game, regardless of the level of play (youth, amateur, or professional). Coaches use timeouts not only to disrupt the opponent’s momentum or establish a favorable rhythm but also to prepare decisive plays in close games, manage player fatigue, or implement tactical adjustments. Given their limited number, understanding when and how to use timeouts effectively becomes a critical aspect of game management. This study aims to explore the different types of timeouts, their usage patterns, and evaluate their effectiveness in various game scenarios, providing insights into their strategic value within basketball dynamics.
